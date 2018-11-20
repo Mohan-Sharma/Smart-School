@@ -1,1 +1,3 @@
-/Users/i504180/workspace/codebase/personal/Smart-School/student-service/src/main/java/org/msharma/studentservice/StudentServiceApplication.java
+/Users/i504180/workspace/codebase/personal/Smart-School/student-service/src/main/java/org/msharma/student/config/spring/StudentServiceApplication.java
+/Users/i504180/workspace/codebase/personal/Smart-School/student-service/src/main/java/org/msharma/student/config/spring/SwaggerConfiguration.java
+/Users/i504180/workspace/codebase/personal/Smart-School/student-service/src/main/java/org/msharma/student/presentation/controller/HomeController.java
